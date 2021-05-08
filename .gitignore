@@ -1,0 +1,3 @@
+.fastapi_env
+settings.json
+*.pyc
